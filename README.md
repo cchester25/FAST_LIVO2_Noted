@@ -1,5 +1,5 @@
 # FAST-LIVO2三位一体解析：从论文到代码再到实战
-:mortar_board: 从小白的视角去分析多源融合SLAM的SOTA框架
+:mortar_board: 从小白的视角去分析多源融合SLAM的SOTA框架: FAST-LIVO2
 
 ## :tada: FAST-LIVO2 是一项令人惊艳的 SLAM 工作，其精妙的设计使其能够鲁棒、高效地应对诸多挑战性场景。然而，这也使得初学者在理解和复现该框架时可能面临不小的困难。
 
