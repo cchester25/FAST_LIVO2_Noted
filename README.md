@@ -24,8 +24,23 @@ FAST-LIVO2作为SLAM领域的前沿工作，其论文与代码中蕴含了许多
 # :clap: :clap: :clap: 致谢：特别感谢 FAST-LIVO2 作者团队的杰出工作，开源精神推动着整个领域的进步！
 
 # 设备及效果展示
-<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/img/handle1.jpg" width="180" height="105"><img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/img/handle2.jpg" width="180" height="105">
-<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/img/M3001.jpg" width="180" height="105"/><img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/img/M3002.jpg" width="180" height="105"/>
-<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/img/Fly.jpg" width="180" height="105"/>
 
+### 手持设备
 
+<div align=center>
+<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/img/handle1.jpg" width="350" height="450"><img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/img/handle2.jpg" width="350" height="450">
+</div>
+
+### 无人机挂载设备
+
+<div align=center>
+<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/img/M3001.jpg" width="350" height="450"/><img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/img/M3002.jpg" width="350" height="450"/>
+</div>
+
+### 挂载效果
+
+<div align=center>
+<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/img/Fly.jpg" width="350" height="450"/>
+</div>
+
+## 操场建图效果
