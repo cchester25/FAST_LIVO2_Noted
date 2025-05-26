@@ -17,11 +17,15 @@ FAST-LIVO2作为SLAM领域的前沿工作，其论文与代码中蕴含了许多
 ### :hammer: 3. 实战解析
 硬件选型与组装：针对不同预算和场景（如无人机、机器人），推荐传感器配置方案。 调试与标定：分享传感器标定、时间同步等常见问题的解决方法。 部署优化：从实际数据采集到算法的全流程经验。
 
-# :rose: 特别说明
+## :rose: 特别说明
 本解析是笔者在复现过程中的个人学习笔记，并非官方指南。若存在理解偏差，欢迎通过Issue或PR指正！ 或者联系本人邮箱：fengpan97618@163.com
 
 
 # :clap: :clap: :clap: 致谢：特别感谢 FAST-LIVO2 作者团队的杰出工作，开源精神推动着整个领域的进步！
 
 # 设备及效果展示
+<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/img/handle1.jpg" width="180" height="105"><img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/img/handle2.jpg" width="180" height="105">
+<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/img/M3001.jpg" width="180" height="105"/><img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/img/M3002.jpg" width="180" height="105"/>
+<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/img/Fly.jpg" width="180" height="105"/>
+
 
