@@ -46,23 +46,23 @@ FAST-LIVO2作为SLAM领域的前沿工作，其论文与代码中蕴含了许多
 ### 操场建图效果
 
 <div align=center>
-<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/gif1/gfcc0 00_00_00-00_00_30.gif" width="550" height="450">
+<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/gif1/gfcc0 00_00_00-00_00_30.gif" width="450" height="350">
 </div>
 
 ### 工厂建图效果
 
 <div align=center>
-<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/gif2/jichi0_1 00_00_00-00_00_30.gif" width="500" height="450"><img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/gif2/jichi1_3 00_00_00-00_00_30.gif" width="500" height="450">
+<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/gif2/jichi0_1 00_00_00-00_00_30.gif" width="400" height="350"><img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/gif2/jichi1_3 00_00_00-00_00_30.gif" width="400" height="350">
 </div>
 
 ### 农田建图效果
 
 <div align=center>
-<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/gif3/farmland1_0 00_00_00-00_00_30.gif" width="500" height="450"><img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/gif3/farmland1_1 00_00_00-00_00_30.gif" width="500" height="450">
+<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/gif3/farmland1_0 00_00_00-00_00_30.gif" width="400" height="350"><img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/gif3/farmland1_1 00_00_00-00_00_30.gif" width="400" height="350">
 </div>
 
 <div align=center>
-<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/gif4/farmlan1_2 00_00_00-00_00_30.gif" width="500" height="450"><img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/gif4/farmland1_3 00_00_00-00_00_30.gif" width="500" height="450">
+<img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/gif4/farmlan1_2 00_00_00-00_00_30.gif" width="400" height="350"><img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/gif4/farmland1_3 00_00_00-00_00_30.gif" width="400" height="350">
 </div>
 
 
