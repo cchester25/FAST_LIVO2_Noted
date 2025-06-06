@@ -13,7 +13,7 @@ FAST-LIVO2作为SLAM领域的前沿工作，其论文与代码中蕴含了许多
 
 ### :computer: 2. 代码解析
 基于官方默认配置，对代码框架进行逐行注释。在关键算法实现处标注对应的论文公式，建立理论与代码的映射关系。总结代码中的工程技巧（如并行化设计、内存管理等），供实际开发借鉴。
-由于笔者发现用word文档的形式去解析代码属实费事（函数一个套一个），故以思维导图的形式对整个框架进行展开，如下图所示。pdf版本已上传，或者可以选择在线思维导图浏览 https://www.mubu.com/doc/w8Dd21eztg。
+由于笔者发现用word文档的形式去解析代码属实费事（函数一个套一个），故以思维导图的形式对整个框架进行展开（也可选文档模式），如下图所示。pdf版本已上传，或者可以选择在线思维导图浏览 https://www.mubu.com/doc/w8Dd21eztg,打开链接后请选择右上角的思维导图或者文档模式。
 <div align=center>
 <img src="https://github.com/cchester25/FAST_LIVO2_Noted/blob/main/img/示意图.png" width="850" height="400">
 </div>
