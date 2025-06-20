@@ -1,3 +1,4 @@
+2025/06/20更新：感谢热心读者的提醒，关于代码中计算激光点不确定性与论文实现不一致问题，笔者已将解答附着到voxelmap_manager->BuildVoxelMap();这部分解析中。
 # FAST-LIVO2三位一体解析：从论文到代码再到实战
 :mortar_board: 从小白的视角去分析多源融合SLAM的SOTA框架: FAST-LIVO2
 
